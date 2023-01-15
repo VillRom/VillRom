@@ -18,5 +18,5 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <h2></h2>
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="t.me/alexromanchev" target="_blank" rel="noreferrer" <img src="images/telegram.jpg" alt="telegram" height="32"> 
-<a href="https://vk.com/id16539520" target="_blank" rel="noreferrer" <img src="images/vk.jpg" alt="Vk" height="32"> </p>
+<p align="left"> <a href="t.me/alexromanchev" target="_blank" rel="noreferrer" <img src="https://github.com/VillRom/VillRom/blob/main/images/telegram.jpg" alt="telegram" height="32"> 
+<a href="https://vk.com/id16539520" target="_blank" rel="noreferrer" <img src="https://github.com/VillRom/VillRom/blob/main/images/vk.jpg" alt="Vk" height="32"> </p>
