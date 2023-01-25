@@ -20,4 +20,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://t.me/alexromachev" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/VillRom/VillRom/blob/main/images/telegram.jpg" alt="telegram" height="32"/> </a> 
-<a href="https://vk.com/id16539520" target="_blank" rel="noreferrer"> <img src="https://github.com/VillRom/VillRom/blob/main/images/vk.png" alt="Vk" height="32"/> </a> </p>
+ </p>
