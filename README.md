@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Meat House](https://github.com/VillRom/meatHouse)
 
-- 🌱 I’m currently learning **QueryDSL**
+- 🌱 I’m currently learning **telegramBots**
 
 - 📫 How to reach me **alexromanchev@mail.ru**
 
