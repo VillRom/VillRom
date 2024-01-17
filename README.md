@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alexandr<img src="https://github.com/VillRom/VillRom/blob/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm java-developer from Samara</h3>
 
-- 🔭 I’m currently working on [Meat House](https://github.com/VillRom/meatHouse)
+- 🔭 I’m currently working on [Happy Day](https://github.com/VillRom/HappyDay)
 
 - 🌱 I’m currently learning **telegramBots**
 
