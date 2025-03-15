@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring in action Craig Walls**
 
-- 📫 How to reach me **alexromanchev@mail.ru**
+<!--- 📫 How to reach me **alexromanchev@mail.ru**-->
 
 <h2></h2>
 <h3 align="left">My stack technology:</h3>
@@ -18,7 +18,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/paragpindoria/kafka-icons/blob/main/icons/kafka.png" alt="apache kafka" width="40" height="40"/> </a> </p>
 <h2></h2>
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://t.me/alexromachev" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/VillRom/VillRom/blob/main/images/telegram.jpg" alt="telegram" height="32"/> </a> 
- </p>
+ </p>-->
